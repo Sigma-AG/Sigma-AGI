@@ -1,0 +1,7 @@
+# Sigma-AGI Dependencies
+# For TPU: pip install jax[tpu] -f https://storage.googleapis.com/jax-releases/libtpu_releases.html
+# For GPU: pip install jax[cuda12]
+
+jax>=0.4.20
+jaxlib>=0.4.20
+numpy>=1.24.0
