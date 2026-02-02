@@ -1,0 +1,176 @@
+V14 EVOLUTION: THE GROWING NEURAL GAS
+================================================================================
+
+Configuration:
+  Generations:      10000
+  Population:       64
+  Initial neurons:  1000
+  Max neurons:      50000
+  Neuron cost:      0.0001
+  Connection cost:  1e-05
+  Mutation rate:    0.15
+  Eval episodes:    3
+================================================================================
+[     0.0s] Initializing population...
+[     1.2s] Population initialized: 64 individuals
+[   120.9s]
+============================================================
+[   120.9s] Generation 0
+[   120.9s] ============================================================
+[   120.9s]   Best Fitness:     +2.8283
+[   120.9s]   Mean Fitness:     +1.7939
+[   120.9s]   Worst Fitness:    +0.7950
+[   120.9s]   Std Fitness:      0.4571
+[   120.9s]
+[   120.9s]   Best Survival:    296 steps
+[   120.9s]   Best Food:        0.0
+[   120.9s]   Best Neurons:     1000
+[   120.9s]   Best Connections: 500
+[   120.9s]
+[   120.9s]   Mean Neurons:     1000.0
+[   120.9s]   Mean Connections: 500.0
+[   120.9s]   Mean Criticality: 0.779
+[   120.9s]
+[   120.9s]   Gen Time:         119.72s
+[   120.9s]   Eval/sec:         0.5
+    [  2192.4s]
+============================================================
+[  2192.4s] Generation 20
+[  2192.4s] ============================================================
+[  2192.4s]   Best Fitness:     +2.8383
+[  2192.4s]   Mean Fitness:     +1.0946
+[  2192.4s]   Worst Fitness:    +0.2083
+[  2192.4s]   Std Fitness:      0.6251
+[  2192.4s]
+[  2192.4s]   Best Survival:    327 steps
+[  2192.4s]   Best Food:        0.0
+[  2192.4s]   Best Neurons:     1000
+[  2192.4s]   Best Connections: 500
+[  2192.4s]
+[  2192.4s]   Mean Neurons:     1000.0
+[  2192.4s]   Mean Connections: 500.0
+[  2192.4s]   Mean Criticality: 0.626
+[  2192.4s]
+[  2192.4s]   Gen Time:         102.99s
+[  2192.4s]   Eval/sec:         0.6
+[  4404.0s]
+============================================================
+[  4404.0s] Generation 40
+[  4404.0s] ============================================================
+[  4404.0s]   Best Fitness:     +4.0950
+[  4404.0s]   Mean Fitness:     +1.5685
+[  4404.0s]   Worst Fitness:    +0.3017
+[  4404.0s]   Std Fitness:      0.8031
+[  4404.0s]
+[  4404.0s]   Best Survival:    248 steps
+[  4404.0s]   Best Food:        3.0
+[  4404.0s]   Best Neurons:     1000
+[  4404.0s]   Best Connections: 500
+[  4404.0s]
+[  4404.0s]   Mean Neurons:     1000.0
+[  4404.0s]   Mean Connections: 500.0
+[  4404.0s]   Mean Criticality: 0.294
+[  4404.0s]
+[  4404.0s]   Gen Time:         135.60s
+[  4404.0s]   Eval/sec:         0.5
+[  7174.9s]
+============================================================
+[  7174.9s] Generation 60
+[  7174.9s] ============================================================
+[  7174.9s]   Best Fitness:     +4.3617
+[  7174.9s]   Mean Fitness:     +1.8320
+[  7174.9s]   Worst Fitness:    +0.4650
+[  7174.9s]   Std Fitness:      0.9613
+[  7174.9s]
+[  7174.9s]   Best Survival:    537 steps
+[  7174.9s]   Best Food:        1.0
+[  7174.9s]   Best Neurons:     1000
+[  7174.9s]   Best Connections: 500
+[  7174.9s]
+[  7174.9s]   Mean Neurons:     1000.0
+[  7174.9s]   Mean Connections: 500.0
+[  7174.9s]   Mean Criticality: 0.304
+[  7174.9s]
+[  7174.9s]   Gen Time:         150.78s
+[  7174.9s]   Eval/sec:         0.4
+[ 10604.1s]
+============================================================
+[ 10604.1s] Generation 80
+[ 10604.1s] ============================================================
+[ 10604.1s]   Best Fitness:     +4.7683
+[ 10604.2s]   Mean Fitness:     +3.5307
+[ 10604.2s]   Worst Fitness:    +1.4250
+[ 10604.2s]   Std Fitness:      0.8836
+[ 10604.2s]
+[ 10604.2s]   Best Survival:    430 steps
+[ 10604.2s]   Best Food:        2.0
+[ 10604.2s]   Best Neurons:     1000
+[ 10604.2s]   Best Connections: 500
+[ 10604.2s]
+[ 10604.2s]   Mean Neurons:     1000.0
+[ 10604.2s]   Mean Connections: 500.0
+[ 10604.2s]   Mean Criticality: 0.172
+[ 10604.2s]
+[ 10604.2s]   Gen Time:         238.13s
+[ 10604.2s]   Eval/sec:         0.3
+[ 16489.4s]
+============================================================
+[ 16489.4s] Generation 100
+[ 16489.4s] ============================================================
+[ 16489.4s]   Best Fitness:     +6.2183
+[ 16489.5s]   Mean Fitness:     +4.4256
+[ 16489.5s]   Worst Fitness:    +1.9117
+[ 16489.5s]   Std Fitness:      0.9444
+[ 16489.5s]
+[ 16489.5s]   Best Survival:    772 steps
+[ 16489.5s]   Best Food:        1.0
+[ 16489.5s]   Best Neurons:     1000
+[ 16489.5s]   Best Connections: 500
+[ 16489.5s]
+[ 16489.5s]   Mean Neurons:     1000.0
+[ 16489.5s]   Mean Connections: 500.0
+[ 16489.5s]   Mean Criticality: 0.234
+[ 16489.5s]
+[ 16489.5s]   Gen Time:         204.41s
+[ 16489.5s]   Eval/sec:         0.3
+  Checkpoint saved: gen 100, best=6.6817
+[ 20804.3s]
+============================================================
+[ 20804.3s] Generation 120
+[ 20804.4s] ============================================================
+[ 20804.4s]   Best Fitness:     +7.1717
+[ 20804.4s]   Mean Fitness:     +5.4766
+[ 20804.4s]   Worst Fitness:    +1.3617
+[ 20804.4s]   Std Fitness:      1.1862
+[ 20804.4s]
+[ 20804.4s]   Best Survival:    872 steps
+[ 20804.4s]   Best Food:        1.0
+[ 20804.4s]   Best Neurons:     1000
+[ 20804.4s]   Best Connections: 500
+[ 20804.4s]
+[ 20804.4s]   Mean Neurons:     1000.0
+[ 20804.4s]   Mean Connections: 500.0
+[ 20804.4s]   Mean Criticality: 0.078
+[ 20804.4s]
+[ 20804.4s]   Gen Time:         227.42s
+[ 20804.4s]   Eval/sec:         0.3
+[ 26400.7s]
+============================================================
+[ 26400.7s] Generation 140
+[ 26400.7s] ============================================================
+[ 26400.7s]   Best Fitness:     +6.5550
+[ 26400.7s]   Mean Fitness:     +6.3845
+[ 26400.7s]   Worst Fitness:    +3.3217
+[ 26400.7s]   Std Fitness:      0.5907
+[ 26400.7s]
+[ 26400.7s]   Best Survival:    666 steps
+[ 26400.7s]   Best Food:        0.0
+[ 26400.7s]   Best Neurons:     1000
+[ 26400.7s]   Best Connections: 500
+[ 26400.7s]
+[ 26400.7s]   Mean Neurons:     1000.0
+[ 26400.7s]   Mean Connections: 500.0
+[ 26400.7s]   Mean Criticality: 0.156
+[ 26400.7s]
+[ 26400.7s]   Gen Time:         725.71s
+[ 26400.7s]   Eval/sec:         0.1
