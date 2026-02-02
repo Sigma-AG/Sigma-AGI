@@ -39,7 +39,16 @@ pip install -r requirements.txt
 ```
 
 ## Usage
+## 📊 Preliminary Results & Bottlenecks
 
+Early experiments on RTX 4080 show successful emergence of survival behaviors, but reveal severe computational scaling issues:
+
+- **Generation 20**: ~100s / gen
+- **Generation 140**: ~725s / gen (due to increased agent survival time)
+
+See full logs: [training_log_preview.txt](training_log_preview.txt)
+
+**This computational explosion demonstrates the critical need for TPU parallelism.**
 ### Quick Test
 ```bash
 python src/sigma_core.py
